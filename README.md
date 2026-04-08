@@ -5,6 +5,7 @@ Data analytics project using Power BI to explore Disney+ shows and movies, inclu
 
 
 ## Objectives
+
 -Analyze the distribution of movies and TV shows on Disney+
 -Identify the most common genres and categories
 -Study release year trends
@@ -12,6 +13,7 @@ Data analytics project using Power BI to explore Disney+ shows and movies, inclu
 -Explore content availability by country
 
 ## Tools & Technologies
+
 -Power BI – Data visualization and dashboard creation
 -Power Query – Data cleaning and preprocessing
 -Microsoft Excel  – Data source
