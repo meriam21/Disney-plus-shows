@@ -20,8 +20,8 @@ Github
 ## Dataset
 The dataset used in this project contains information about Disney+ content such as:
 
-Show ID
-Title
+## Show ID
+## Title
 Type (Movie / TV Show)
 Director
 Cast
